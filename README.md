@@ -4,9 +4,13 @@ Sistema de Alarme residencial
 Um sistema de alarme desenvolvido para uma atividade acadêmica.
 
 === Materiais === 
+
 teclado matricial
+
 LED vermelho e verde
+
 Buzzer 
+
 Chave ou Sensor de presença
 
 === Funcionamento ===
